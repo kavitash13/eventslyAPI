@@ -1,4 +1,4 @@
-# SocietyBoard API
+# EventsLy API
 
 An open source platform designed for college societies to upload and manage events, and for students to view all upcoming events at one place.
 
